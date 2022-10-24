@@ -1,6 +1,6 @@
-#Dow Node.js and Npm/Yarn
+# Dow Node.js and Npm/Yarn
 
-#Install React in terminal:
+# Install React in terminal:
 yarn global add create-react-app@1.5.2
   -create folder my-app
 npx create-react-app my-app
